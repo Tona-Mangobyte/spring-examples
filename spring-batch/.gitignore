@@ -1,7 +1,7 @@
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**/target/
+!src/main/**/target/
 !**/src/test/**/target/
 
 ### STS ###
@@ -26,14 +26,8 @@ target/
 /nbdist/
 /.nb-gradle/
 build/
-!**/src/main/**/build/
+!src/main/**/build/
 !**/src/test/**/build/
 
 ### VS Code ###
 .vscode/
-
-### app.confiure | environment varibles
-application.properties
-
-database.xml
-output.txt
