@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### app.confiure | environment varibles
+/src/main/resources/application-dev.properties
